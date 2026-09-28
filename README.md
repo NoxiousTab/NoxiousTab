@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&lines=Full-Stack+%26+Systems+Developer;Open+Source+Contributor+%40+Zulip;Competitive+Programmer+%7C+Codeforces+Candidate+Master;CTF+Player+%7C+HackTheBox+Pro+Hacker;I+build+chess+engines%2C+OSes+and+judges+for+fun" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&lines=Full-Stack+%26+Systems+Developer;Open+Source+Contributor;Competitive+Programmer+%7C+Codeforces+Candidate+Master;CTF+Player+%7C+HackTheBox+Pro+Hacker;I+build+chess+engines%2C+OSes+and+judges+for+fun" alt="Typing SVG" /></a>
 
 </div>
 
