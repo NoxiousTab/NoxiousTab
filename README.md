@@ -93,15 +93,8 @@
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NoxiousTab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoxiousTab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NoxiousTab&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=NoxiousTab&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-
+<div align="center"> <img src="https://img.shields.io/github/followers/NoxiousTab?style=for-the-badge&logo=github&color=0ea5e9&labelColor=1e3a8a" alt="followers" /> <img src="https://img.shields.io/badge/Public%20Repos-34-0ea5e9?style=for-the-badge&logo=github&labelColor=1e3a8a" alt="repos" /> <img src="https://img.shields.io/badge/Pull%20Shark-Achievement-0ea5e9?style=for-the-badge&logo=github&labelColor=1e3a8a" alt="pull shark" /> <!-- Optional: once the metrics workflow has run once, uncomment the next line --> 
+<img src="./github-metrics.svg" alt="GitHub metrics" />
 </div>
 
 ---
