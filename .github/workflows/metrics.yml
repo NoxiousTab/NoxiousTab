@@ -24,5 +24,5 @@ jobs:
           plugin_languages_ignored: html, css, dockerfile, makefile, cmake, shell
           plugin_languages_analysis_timeout: 30
           # Fixes the image being cropped at the bottom: width padding 0, height +15%
-          config_padding: 0, 15%
+          config_padding: 15%, 17%
 
