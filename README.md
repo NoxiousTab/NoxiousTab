@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=false&text=Ahmed+Tabish+-nl-+a.k.a+-nl-+NoxiousTab&textBg=false&fontSize=50&fontAlign=50&fontAlignY=36&animation=blink&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" alt="header" />
 
 
+
 <a href="https://ahmedtabish.me"><img src="https://img.shields.io/badge/PORTFOLIO-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/ahmed-tabish"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/NoxiousTab"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
