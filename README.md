@@ -67,8 +67,8 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Practice Judge](https://practice-judge.vercel.app/)** 🔴 Live | Online coding judge with sandboxed execution in **3 languages**, async judging via Edge Functions + Judge0 callbacks, RLS-secured 10-table schema, and admin tooling for bulk testcase import (100+ problems) | `React` `TypeScript` `Supabase` `Judge0` `Docker` `Piston` `Cloudflared R2`|
-| **[nox_engine](https://github.com/NoxiousTab/nox_engine)** ♟️ | UCI chess engine: multithreaded alpha-beta (PVS, null-move, LMR, transposition tables), custom PyTorch-trained eval net, magic bitboards validated on **640,000+** randomized checks | `C++17` `PyTorch` |
+| **[Practice Judge](https://practice-judge.vercel.app/)** 🔴 Live | Online coding judge with sandboxed execution in **3 languages**, async judging via Edge Functions + Judge0 callbacks, RLS-secured 10-table schema, and admin tooling for bulk testcase import (100+ problems) | `Vite` `TypeScript` `Supabase` `Judge0` `Docker` `Piston` `Cloudflared R2`|
+| **[nox_engine](https://github.com/NoxiousTab/nox_engine)** ♟️ | UCI chess engine: multithreaded alpha-beta (PVS, null-move, LMR, transposition tables), custom PyTorch-trained eval net, magic bitboards validated on **640,000+** randomized checks | `C++` `Python` `Neural Network` |
 | **[nox_os](https://github.com/NoxiousTab/nox_os)** 🖥️ | Educational OS built from scratch (not a Linux distro): custom bootloader, protected mode kernel, paging + heap, round-robin scheduler, syscalls and a CLI shell | `C` `x86 ASM` `QEMU` |
 | **[nox_sniffer](https://github.com/NoxiousTab/nox_sniffer)** 📡 | Packet sniffer written in C from scratch, for the love of low-level programming | `C` |
 | **[codesense](https://github.com/NoxiousTab/codesense)** 🔍 | AI-powered semantic code search over your own codebase | `Python` `Tree-sitter` `HuggingFace` `FAISS` `Streamlit` |
@@ -95,13 +95,13 @@
 | <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/> [@noxious_tab](https://codeforces.com/profile/noxious_tab) | **Candidate Master** · 1923 |
 | <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/> [@noxioustab](https://www.codechef.com/users/noxioustab) | **4★** · 1959 |
 | <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/> [@noxious_tab](https://www.geeksforgeeks.org/user/noxious_tab/) | **4★** · 1969 |
-| <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/> | **Pro Hacker** · India Rank **#2** · 55+ machines rooted (medium–hard) |
+| <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black"/> | **Pro Hacker** · Former India Rank **#2** · 55+ machines rooted (medium–hard) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
