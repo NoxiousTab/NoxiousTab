@@ -48,8 +48,8 @@
 ## Recent Contributions
 
 - 🌐 **[Zulip](https://github.com/zulip/zulip)**
-  - Cut DB calls in notification queries by **80% (10 → 2)** while keeping behaviour identical **[PR]("https://github.com/zulip/zulip/pull/39724")**
-  - Used **Django ORM batching** on profile field updates: queries down **70% (44 → 13)** **[PR]("https://github.com/zulip/zulip/pull/39891")**
+  - Cut DB calls in notification queries by **80% (10 → 2)** while keeping behaviour identical: **[PR](https://github.com/zulip/zulip/pull/39724)**
+  - Used **Django ORM batching** on profile field updates: queries down **70% (44 → 13)**: **[PR](https://github.com/zulip/zulip/pull/39891)**
   - `Python` `PostgreSQL` `Django ORM` `Git`
 
 ---
