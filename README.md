@@ -34,7 +34,6 @@
 - 🛡️ **Pro Hacker** on HackTheBox, **India rank #2**, 55+ machines rooted
 - ♟️ Built a **UCI-compliant C++17 chess engine** that searches **119M+ nodes** (Perft verified)
 - 🖥️ Wrote a **bootable OS from scratch** (custom bootloader, paging, scheduler, FAT-like FS) in C and x86 ASM
-- 👑 **President of the Coding Club**, leading 15+ members through DSA & problem solving sessions
 - 💬 Ask me about **DSA / Competitive Programming / Low-level systems / Cloud / Security**
 - 📫 Reach me at **noxioustab@gmail.com**
 - ⚡ Fun fact: I trained a chess eval network in PyTorch, then ported it to a native C++ binary
