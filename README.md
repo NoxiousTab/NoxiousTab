@@ -57,12 +57,12 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Practice Judge](https://practice-judge.vercel.app/)** 🔴 Live | Online coding judge with sandboxed execution in **3 languages**, async judging via Edge Functions + Judge0 callbacks, RLS-secured 10-table schema, and admin tooling for bulk testcase import (100+ problems) | `Vite` `TypeScript` `Supabase` `Judge0` `Docker` `Piston` `Cloudflared R2`|
-| **[nox_engine](https://github.com/NoxiousTab/nox_engine)** ♟️ | UCI chess engine: multithreaded alpha-beta (PVS, null-move, LMR, transposition tables), custom PyTorch-trained eval net, magic bitboards validated on **640,000+** randomized checks | `C++` `Python` `Neural Network` |
-| **[nox_os](https://github.com/NoxiousTab/nox_os)** 🖥️ | Educational OS built from scratch (not a Linux distro): custom bootloader, protected mode kernel, paging + heap, round-robin scheduler, syscalls and a CLI shell | `C` `x86 ASM` `QEMU` |
-| **[nox_sniffer](https://github.com/NoxiousTab/nox_sniffer)** 📡 | Packet sniffer written in C from scratch, for the love of low-level programming | `C` |
-| **[codesense](https://github.com/NoxiousTab/codesense)** 🔍 | AI-powered semantic code search over your own codebase | `Python` `Tree-sitter` `HuggingFace` `FAISS` `Streamlit` |
-| **[Azure Distributed Task Processing System](https://github.com/NoxiousTab?tab=repositories)** ☁️ | Cloud-native task orchestration with a plugin-style handler registry across 8 task types (Markdown→HTML, image/PDF processing, OCR) on Azure Functions + Blob/Queue Storage, with GitHub Actions CI | `C#` `.NET 8` `Azure` `React` `xUnit` |
+| **[Practice Judge](https://practice-judge.vercel.app/)** | Online coding judge with sandboxed execution in **3 languages**, async judging via Edge Functions + Judge0 callbacks, RLS-secured 10-table schema, and admin tooling for bulk testcase import (100+ problems) | `Vite` `TypeScript` `Supabase` `Judge0` `Docker` `Piston` `Cloudflared R2`|
+| **[nox_engine](https://github.com/NoxiousTab/nox_engine)** | UCI chess engine: multithreaded alpha-beta (PVS, null-move, LMR, transposition tables), custom PyTorch-trained eval net, magic bitboards validated on **640,000+** randomized checks | `C++` `Python` `Neural Network` |
+| **[nox_os](https://github.com/NoxiousTab/nox_os)** | Educational OS built from scratch (not a Linux distro): custom bootloader, protected mode kernel, paging + heap, round-robin scheduler, syscalls and a CLI shell | `C` `x86 ASM` `QEMU` |
+| **[nox_sniffer](https://github.com/NoxiousTab/nox_sniffer)**  | Packet sniffer written in C from scratch, for the love of low-level programming | `C` |
+| **[codesense](https://github.com/NoxiousTab/codesense)** | AI-powered semantic code search over your own codebase | `Python` `Tree-sitter` `HuggingFace` `FAISS` `Streamlit` |
+| **[Azure Distributed Task Processing System](https://github.com/NoxiousTab?tab=repositories)**  | Cloud-native task orchestration with a plugin-style handler registry across 8 task types (Markdown→HTML, image/PDF processing, OCR) on Azure Functions + Blob/Queue Storage, with GitHub Actions CI | `C#` `.NET 8` `Azure` `React` `xUnit` |
 
 ---
 
