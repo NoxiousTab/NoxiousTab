@@ -29,23 +29,14 @@
 <td width="62%" valign="top">
 
 - 🎓 Pursuing **B.E. in Computer Science** at *MES Wadia College of Engineering, Pune* (2023 – 2027) · CGPA **8.2/10**
-- 🌱 Open Source Contributor at **[Zulip](https://github.com/zulip/zulip)**: query and DB call optimizations in Django
-- 🏆 **Candidate Master (1923)** on Codeforces · **4★** on CodeChef (1959) & GFG (1969)
-- 🛡️ **Pro Hacker** on HackTheBox, **India rank #2**, 55+ machines rooted
-- ♟️ Built a **UCI-compliant C++17 chess engine** that searches **119M+ nodes** (Perft verified)
-- 🖥️ Wrote a **bootable OS from scratch** (custom bootloader, paging, scheduler, FAT-like FS) in C and x86 ASM
-- 💬 Ask me about **DSA / Competitive Programming / Low-level systems / Cloud / Security**
-- 📫 Reach me at **noxioustab@gmail.com**
-- ⚡ Fun fact: I trained a chess eval network in PyTorch, then ported it to a native C++ binary
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://github.com/NoxiousTab.png?size=220" width="180" style="border-radius:50%" alt="Tabish" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=NoxiousTab&label=Profile+views&color=0e75b6&style=flat" alt="views" />
+- Open Source Contributor at **[Zulip](https://github.com/zulip/zulip)**: query and DB call optimizations in Django
+- **Candidate Master (1923)** on Codeforces · **4★** on CodeChef (1959) & GFG (1969)
+- **Pro Hacker** on HackTheBox, **India rank #2**, 55+ machines rooted
+- Built a **UCI-compliant C++17 chess engine** that searches **119M+ nodes** (Perft verified)
+- Wrote a **bootable OS from scratch** (custom bootloader, paging, scheduler, FAT-like FS) in C and x86 ASM
+- Ask me about **DSA / Competitive Programming / Low-level systems / Cloud / Security**
+- Reach me at **noxioustab@gmail.com**
+- Fun fact: I trained a chess eval network in PyTorch, then ported it to a native C++ binary
 
 </td>
 </tr>
@@ -53,7 +44,7 @@
 
 ---
 
-## 💼 Recent Contributions
+## Recent Contributions
 
 - 🌐 **[Zulip](https://github.com/zulip/zulip)** · *Jul 2026 – Present* · Remote
   - Cut DB calls in notification queries by **80% (10 → 2)** while keeping behaviour identical **[PR]("https://github.com/zulip/zulip/pull/39724")**
@@ -62,7 +53,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it is | Stack |
 |---|---|---|
