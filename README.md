@@ -54,17 +54,12 @@
 
 ---
 
-## 💼 Experience
+## 💼 Recent Contributions
 
-- 🌐 **Open Source Contributor, [Zulip](https://github.com/zulip/zulip)** · *Jul 2026 – Present* · Remote
-  - Cut DB calls in notification queries by **80% (10 → 2)** while keeping behaviour identical
-  - Used **Django ORM batching** on profile field updates: queries down **70% (44 → 13)**
-  - `Python` `PostgreSQL` `Django ORM` `pytest` `Git`
-
-- 🏢 **Project Intern, MSEDCL** (academic collaboration under faculty mentorship) · *Jan 2025 – Jun 2025* · Pune
-  - Built a **real-time admin dashboard** for employee, inventory and assignment records
-  - Integrated **PostgREST APIs** between a **Kotlin Android** client and PostgreSQL, cutting sync issues by **80%**
-  - `TypeScript` `Vite` `PostgreSQL` `PostgREST` `Kotlin` `Android` `Tailwind CSS`
+- 🌐 **[Zulip](https://github.com/zulip/zulip)** · *Jul 2026 – Present* · Remote
+  - Cut DB calls in notification queries by **80% (10 → 2)** while keeping behaviour identical **[PR]("https://github.com/zulip/zulip/pull/39724")**
+  - Used **Django ORM batching** on profile field updates: queries down **70% (44 → 13)** **[PR]("https://github.com/zulip/zulip/pull/39891")**
+  - `Python` `PostgreSQL` `Django ORM` `Git`
 
 ---
 
@@ -72,7 +67,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Practice Judge](https://github.com/NoxiousTab/practice_judge)** 🔴 Live | Online coding judge with sandboxed execution in **3 languages**, async judging via Edge Functions + Judge0 callbacks, RLS-secured 10-table schema, and admin tooling for bulk testcase import (100+ problems) | `React` `TypeScript` `Supabase` `Judge0` `Docker` |
+| **[Practice Judge](https://practice-judge.vercel.app/)** 🔴 Live | Online coding judge with sandboxed execution in **3 languages**, async judging via Edge Functions + Judge0 callbacks, RLS-secured 10-table schema, and admin tooling for bulk testcase import (100+ problems) | `React` `TypeScript` `Supabase` `Judge0` `Docker` `Piston` `Cloudflared R2`|
 | **[nox_engine](https://github.com/NoxiousTab/nox_engine)** ♟️ | UCI chess engine: multithreaded alpha-beta (PVS, null-move, LMR, transposition tables), custom PyTorch-trained eval net, magic bitboards validated on **640,000+** randomized checks | `C++17` `PyTorch` |
 | **[nox_os](https://github.com/NoxiousTab/nox_os)** 🖥️ | Educational OS built from scratch (not a Linux distro): custom bootloader, protected mode kernel, paging + heap, round-robin scheduler, syscalls and a CLI shell | `C` `x86 ASM` `QEMU` |
 | **[nox_sniffer](https://github.com/NoxiousTab/nox_sniffer)** 📡 | Packet sniffer written in C from scratch, for the love of low-level programming | `C` |
