@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=false&text=Ahmed+Tabish+-nl-+a.k.a+-nl-+NoxiousTab&textBg=false&fontSize=50&fontAlign=50&fontAlignY=36&animation=blink&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=false&text=Ahmed+Tabish+-nl-+a.k.a+-nl-+NoxiousTab&textBg=false&fontSize=50&fontAlign=50&fontAlignY=36&animation=blink&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="80%" alt="header" />
 
 
 
